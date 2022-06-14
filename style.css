@@ -1,4 +1,6 @@
-
+body {
+  background-color: black;
+}
 .desenho {
   position: absolute;
   top: 50%;
